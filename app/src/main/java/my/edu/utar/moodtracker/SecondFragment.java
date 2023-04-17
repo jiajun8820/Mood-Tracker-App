@@ -26,7 +26,7 @@ public class SecondFragment extends Fragment {
         return binding.getRoot();
 
     }
-
+//hi From Khor Jia jUN
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
