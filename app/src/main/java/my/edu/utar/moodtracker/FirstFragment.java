@@ -38,7 +38,7 @@ public class FirstFragment extends Fragment {
             }
         });
     }
-
+    //hello from bao long
     @Override
     public void onDestroyView() {
         super.onDestroyView();
